@@ -28,6 +28,6 @@
     "build": "webpack",
     "start": "nodemon server/index.mjs",
     "start:client": "webpack serve",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d client"
   }
 }
