@@ -95,7 +95,7 @@ const App = () => {
               </div>
             </div>
 
-            {/* Planet */}
+            {/* Home planet */}
             <div className="col-12 col-md-6 col-lg-4">
               <div className="card shadow-sm h-100 rounded-3">
                 <div className="card-body">
